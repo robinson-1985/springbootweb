@@ -1,2 +1,2 @@
 # springbootweb
-Nesse repositório construímos um pequeno projeto utilizando o spring initializr, para agregação de conhecimento. 
+Nesse repositório consta um pequeno projeto utilizando o spring initializr, para entender o conceito e agregar conhecimento. 
